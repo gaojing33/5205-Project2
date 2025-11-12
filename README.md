@@ -15,7 +15,7 @@ The project is divided into the following modular stages, presented in chronolog
 
 ### 3. Strategy Backtest & Analysis
 * [**`strategy.ipynb`**](https://github.com/crk13/5205-Project2/blob/Strategy/strategy.ipynb)
-* [**Strategy README (Click Here)**](https://github.com/crk13/5205-Project2/blob/main/README.md#strategy-high-frequency-backtest-pipeline)
+* [**Strategy README (Click Here)**](https://github.com/crk13/5205-Project2/blob/Strategy/README.md)
 ---
 **Note on Reproducibility:**
 
